@@ -1,0 +1,21 @@
+{
+  "ticket": {
+    "ticket_id": "string",
+    "created_at": "ISO-like timestamp",
+    "employee": "string",
+    "email": "string",
+    "category": "string",
+    "summary": "string",
+    "priority": "Low | Normal | High",
+    "status": "string",
+    "source": "policy/ticket IDs",
+    "next_action": "string",
+    "fields": "object"
+  },
+  "audit_event": {
+    "time": "timestamp",
+    "event": "string",
+    "detail": "string",
+    "source": "policy/ticket IDs or -"
+  }
+}

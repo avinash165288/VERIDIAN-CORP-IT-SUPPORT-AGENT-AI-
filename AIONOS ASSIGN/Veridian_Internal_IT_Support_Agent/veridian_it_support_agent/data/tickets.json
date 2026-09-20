@@ -1,0 +1,62 @@
+[
+  {
+    "ticket_id": "TK-1042",
+    "employee": "R. Verma",
+    "issue": "VPN credential expired",
+    "status": "Resolved (closed)"
+  },
+  {
+    "ticket_id": "TK-1043",
+    "employee": "S. Iyer",
+    "issue": "Laptop replacement (3.2 yrs old)",
+    "status": "Approved \u2014 pending fulfillment (active)"
+  },
+  {
+    "ticket_id": "TK-1044",
+    "employee": "A. Khan",
+    "issue": "Non-catalog software request",
+    "status": "Pending Security review (active)"
+  },
+  {
+    "ticket_id": "TK-1045",
+    "employee": "P. Joshi",
+    "issue": "Mailbox quota increase",
+    "status": "Approved at 35GB (closed)"
+  },
+  {
+    "ticket_id": "TK-1046",
+    "employee": "M. Das",
+    "issue": "Printer paper jam, floor 2",
+    "status": "Resolved (closed)"
+  },
+  {
+    "ticket_id": "TK-1047",
+    "employee": "K. Singh",
+    "issue": "Home office equipment request",
+    "status": "Pending Finance (active)"
+  },
+  {
+    "ticket_id": "TK-1048",
+    "employee": "T. Rao",
+    "issue": "Phishing email reported",
+    "status": "Escalated to Security \u2014 under investigation (active)"
+  },
+  {
+    "ticket_id": "TK-1049",
+    "employee": "V. Nambiar",
+    "issue": "Password reset",
+    "status": "Resolved (closed)"
+  },
+  {
+    "ticket_id": "TK-1050",
+    "employee": "J. Fernandes",
+    "issue": "Admin access request",
+    "status": "Rejected \u2014 no business justification provided (closed)"
+  },
+  {
+    "ticket_id": "TK-1051",
+    "employee": "L. Menon",
+    "issue": "Guest Wi-Fi issued",
+    "status": "Resolved (closed)"
+  }
+]
